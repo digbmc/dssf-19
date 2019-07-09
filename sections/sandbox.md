@@ -1,6 +1,6 @@
 # Sandbox
 
-For the relevant commands, see your cheatsheets for [git](https://education.github.com/git-cheat-sheet-education.pdf) and [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). If you need help, consult the [glossary](/glossary.md) your peers or the [answer key](/answers.md).
+For the relevant commands, see your cheatsheets for [git](https://education.github.com/git-cheat-sheet-education.pdf) and [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). If you need help, consult the [glossary](sections/glossary.md) your peers or the [answer key](sections/answers.md).
 
 ## Setting up
 
@@ -11,8 +11,9 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 
 ## Publishing
 
-1. Create a new markdown document in your local repository (the dssf-19 directory). Use the .md file extension.
-4. Open the document in atom and write content using markdown syntax. Include headers, lists, text, and links or images. Check your work in atom using the markdown preview package.
+1. Create a new markdown file in the documents folder within your local repository (the dssf-19 directory). Use the .md file extension.
+4. Open the document in **atom** and write content using markdown syntax. Include headers, lists, text, and links or images.
+3. Check your work in atom using the markdown preview package.
 2. Save your new document
 2. Check the **status** of your local repository according to git.
 3. **Add** your document to git's plate so it knows you've made changes (also referred to as "staging" your changes)
@@ -32,7 +33,7 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 
 ### Extra credit
 
-1. Now things will get more complicated. Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
+1. Now things will get more complicated. Open the file [collaboration.md](sections/collaboration.md) in Atom, make some changes, and save the file.
 3. **Add** your changes and **commit** them
 2. Create a new **branch** of the repository so your changes won't interfere with anyone else's work.
 3. **Checkout** your new branch (switch to it).

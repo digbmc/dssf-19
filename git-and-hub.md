@@ -8,7 +8,6 @@
 1. Gain familiarity with git, github, and markdown
 2. Practice writing in markdown, using git with the command line and atom, and collaborating on a repository
 3. Discover what else you can do with git, github, and markdown
-4. Learn about git/atom features
 
 ## Outline
 
@@ -19,6 +18,7 @@
 
 
 [Sandbox](sections/sandbox.md)
+
 [Git workflow using Atom](sections/git-workflow.md)
 
 

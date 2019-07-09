@@ -8,7 +8,7 @@
 
     git config --global user.name "<firstname lastname>"
 
-**Clone** this repository 
+**Clone** this repository
 
     git clone https://github.com/digbmc/dsgas.git
 
@@ -38,7 +38,7 @@ Check the **status** of your local repository according to git.
 
     git pull
 
-**Push** your changes to the remote repository.gi
+**Push** your changes to the remote repository.
 
     git push origin master
 
@@ -62,7 +62,7 @@ Check your **status**, **add** your changes, **commit** them with a message, **p
     git pull
     git push origin master
 
-Open the file [collaboration.md](/collaboration.md) in Atom, make some changes, and save the file.
+Open the file [collaboration.md](sections/collaboration.md) in Atom, make some changes, and save the file.
 
     atom collaboration.md
 
