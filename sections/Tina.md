@@ -23,4 +23,4 @@ This is a Blockquotes
 [Github](http://github.com)
 
 ## Image
-![GitHub Logo](/images/logo.png)
+![Volks Andre](https://live.staticflickr.com/65535/48084743158_100d6a2502_k.jpg)
