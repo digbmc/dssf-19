@@ -10,7 +10,7 @@
 
 **Clone** this repository
 
-    git clone https://github.com/digbmc/dsgas.git
+    git clone https://github.com/digbmc/dssf-19.git
 
 ### Publishing
 

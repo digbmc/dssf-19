@@ -5,8 +5,7 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 ## Setting up
 
 1. Start by **Config**-uring your name using the command line.
-2. **Clone** this repository and open it in **atom**
-3. Use the
+2. **Clone** this repository and open it in **atom** using the command line.
 
 
 ## Publishing
