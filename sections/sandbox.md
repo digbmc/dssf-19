@@ -1,11 +1,12 @@
 # Sandbox
 
-For the relevant commands, see your cheatsheets for [git](https://education.github.com/git-cheat-sheet-education.pdf) and [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). If you need help, consult the [glossary](sections/glossary.md) your peers or the [answer key](sections/answers.md).
+For the relevant commands, see your cheatsheets for [git](https://education.github.com/git-cheat-sheet-education.pdf) and [markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf). If you need help, consult the [glossary](/sections/glossary.md) your peers or the [answer key](/sections/answers.md).
 
 ## Setting up
 
 1. Start by **Config**-uring your name using the command line.
 2. **Clone** this repository and open it in **atom** using the command line.
+3. Try to check the **status** and **pull** new changes.
 
 
 ## Publishing
@@ -14,11 +15,13 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 4. Open the document in **atom** and write content using markdown syntax. Include headers, lists, text, and links or images.
 3. Check your work in atom using the markdown preview package.
 2. Save your new document
+3. Return to the command line.
 2. Check the **status** of your local repository according to git.
 3. **Add** your document to git's plate so it knows you've made changes (also referred to as "staging" your changes)
 4. **Commit** to the changes you've made (at least for now) and write a note about what you changed
 5. **Pull** in any new changes from the cloud-based or "remote" repository (always do this before you push your changes to a shared repo)
 5. **Push** your changes to the remote repository.
+  NB: The first time you do this, you will have to **set** the **upstream** repository and enter your github username and password.
 6. Open the remote in your browser to see what happened.
 
 ## Collaborating

@@ -21,6 +21,10 @@
 
 [Git workflow using Atom](sections/git-workflow.md)
 
+## Questions to figure out
+
+- [ ] Does it matter what version of git you have? Are there significant changes between versions?
+
 
 ## Additional resources
 
