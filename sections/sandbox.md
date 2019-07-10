@@ -11,7 +11,7 @@ For the relevant commands, see your cheatsheets for [git](https://education.gith
 
 ## Publishing
 
-1. Create a new markdown file in the documents folder within your local repository (the dssf-19 directory). Use the .md file extension.
+1. Create a new markdown file in the 'sections' folder within your local repository (the dssf-19 directory). Use the .md file extension.
 4. Open the document in **atom** and write content using markdown syntax. Include headers, lists, text, and links or images.
 3. Check your work in atom using the markdown preview package.
 2. Save your new document
